@@ -1,0 +1,202 @@
+05/06/16-06:30PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/06/16-06:31PM, user1, CMD, /chat, success, client
+05/06/16-06:31PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/06/16-06:31PM, user1, CMD, /chat, success, client
+05/06/16-06:31PM, user2, MSG, from, user1, hiiiii 
+05/06/16-06:32PM, user1, MSG, from, user2, beautiful!
+05/06/16-06:32PM, user2, MSG, from, user1, asdfdsf
+05/06/16-06:32PM, user2, MSG, from, user1, sdfsdfsd
+05/06/16-06:32PM, user2, MSG, from, user1, gdgdhgf
+05/06/16-06:32PM, user1, MSG, from, user2, sfkdngdkfngndfkgndf
+05/06/16-06:32PM, user2, MSG, from, user1, okay!
+05/06/16-06:32PM, user1, MSG, from, user2, small problem
+05/06/16-06:32PM, user2, MSG, from, user1, yes I know
+05/06/16-06:32PM, user1, MSG, from, user2, ugh
+05/06/16-06:33PM, user2, MSG, from, user1, oh well
+05/06/16-06:33PM, user1, CMD, /close, success, chat
+05/06/16-06:33PM, user2, CMD, /close, success, chat
+05/06/16-06:33PM, user2, CMD, /logout, success, client
+05/06/16-06:33PM, user1, CMD, /logout, success, client
+05/06/16-06:34PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/06/16-06:34PM, user1, CMD, /audit, success, client
+05/06/16-06:36PM, user1, CMD, /logout, success, client
+05/07/16-02:23PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:23PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:24PM, user1, CMD, /chat, success, client
+05/07/16-02:25PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:25PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:26PM, user1, CMD, /chat, success, client
+05/07/16-02:38PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:38PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:39PM, user1, CMD, /chat, success, client
+05/07/16-02:40PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:40PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:41PM, user1, CMD, /chat, success, client
+05/07/16-02:41PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:41PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:42PM, user1, CMD, /chat, success, client
+05/07/16-02:42PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:42PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:42PM, user1, CMD, /chat, success, client
+05/07/16-02:43PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:43PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:43PM, user1, CMD, /chat, success, client
+05/07/16-02:46PM, user1, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:47PM, user2, LOGIN, 127.0.0.1:1234, success, hello
+05/07/16-02:47PM, user1, CMD, /chat, success, client
+05/07/16-02:47PM, user2, MSG, from, user1, hello 
+05/07/16-02:47PM, user1, MSG, to, user2, hello 
+05/07/16-03:51PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-03:52PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-03:52PM, user2, CMD, /chat, success, client
+05/07/16-03:52PM, user1, MSG, from, user2, hello 
+05/07/16-03:52PM, user2, MSG, to, user1, hello 
+05/07/16-03:53PM, user1, MSG, from, user2, hiiiii
+05/07/16-03:53PM, user2, MSG, to, user1, hiiiii
+05/07/16-03:53PM, user1, MSG, to, user2, hello
+05/07/16-03:53PM, user2, MSG, from, user1, hello
+05/07/16-03:54PM, user2, CMD, /logoff, failure, client
+05/07/16-03:55PM, user2, CMD, /logout, success, client
+05/07/16-03:55PM, user2, LOGOUT, intentional
+05/07/16-03:57PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-03:57PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-03:57PM, user1, CMD, /chat, success, client
+05/07/16-03:57PM, user1, MSG, to, user2, hello 
+05/07/16-03:57PM, user2, MSG, from, user1, hello 
+05/07/16-03:58PM, user1, CMD, /logout, success, client
+05/07/16-03:59PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-03:59PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:00PM, user1, CMD, /chat, success, client
+05/07/16-04:00PM, user2, MSG, from, user1, hello 
+05/07/16-04:00PM, user1, MSG, to, user2, hello 
+05/07/16-04:00PM, user1, CMD, /logout, success, client
+05/07/16-04:00PM, user1, LOGOUT, intentional
+05/07/16-04:00PM, user2, CMD, /listu, success, client
+05/07/16-04:01PM, user2, CMD, /listu, success, client
+05/07/16-04:16PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:16PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:16PM, user1, CMD, /chat, success, client
+05/07/16-04:16PM, user2, MSG, from, user1, hello 
+05/07/16-04:16PM, user1, MSG, to, user2, hello 
+05/07/16-04:17PM, user2, CMD, /logout, success, client
+05/07/16-04:17PM, user2, LOGOUT, intentional
+05/07/16-04:19PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:19PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:19PM, user1, CMD, /chat, success, client
+05/07/16-04:19PM, user2, MSG, from, user1, hello 
+05/07/16-04:19PM, user1, MSG, to, user2, hello 
+05/07/16-04:19PM, user2, CMD, /logout, success, client
+05/07/16-04:19PM, user2, LOGOUT, intentional
+05/07/16-04:23PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:23PM, user1, CMD, /logout, success, client
+05/07/16-04:23PM, user1, LOGOUT, intentional
+05/07/16-04:23PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:23PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:23PM, user1, CMD, /logout, success, client
+05/07/16-04:23PM, user1, LOGOUT, intentional
+05/07/16-04:24PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:24PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:24PM, user2, CMD, /logout, success, client
+05/07/16-04:24PM, user2, LOGOUT, intentional
+05/07/16-04:26PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:26PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:26PM, user2, CMD, /logout, success, client
+05/07/16-04:26PM, user2, LOGOUT, intentional
+05/07/16-04:29PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:29PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-04:29PM, user2, CMD, /logout, success, client
+05/07/16-04:29PM, user2, LOGOUT, intentional
+05/07/16-07:13PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:13PM, user2, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:17PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:17PM, user1, CMD, /logout, success, client
+05/07/16-07:17PM, user1, LOGOUT, intentional
+05/07/16-07:17PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 00 USER NAME TAKEN
+05/07/16-07:21PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:21PM, user1, CMD, /logout, success, client
+05/07/16-07:21PM, user1, LOGOUT, intentional
+05/07/16-07:21PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 00 USER NAME TAKEN
+05/07/16-07:25PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 01 USER NOT AVAILABLE
+05/07/16-07:26PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:26PM, user1, CMD, /logout, success, client
+05/07/16-07:26PM, user1, LOGOUT, intentional
+05/07/16-07:31PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:31PM, user1, CMD, /logout, success, client
+05/07/16-07:31PM, user1, LOGOUT, intentional
+05/07/16-07:31PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:34PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:34PM, user1, CMD, /logout, success, client
+05/07/16-07:34PM, user1, LOGOUT, intentional
+05/07/16-07:34PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:37PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:37PM, user1, CMD, /logout, success, client
+05/07/16-07:37PM, user1, LOGOUT, intentional
+05/07/16-07:37PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:39PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:39PM, user1, CMD, /logout, success, client
+05/07/16-07:39PM, user1, LOGOUT, intentional
+05/07/16-07:40PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:40PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:40PM, user1, CMD, /logout, success, client
+05/07/16-07:40PM, user1, LOGOUT, intentional
+05/07/16-07:41PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:41PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:41PM, user1, CMD, /logout, success, client
+05/07/16-07:41PM, user1, LOGOUT, intentional
+05/07/16-07:41PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 02 BAD PASSWORD
+05/07/16-07:42PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:43PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 01 USER NOT AVAILABLE
+05/07/16-07:43PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:43PM, user1, CMD, /logout, success, client
+05/07/16-07:43PM, user1, LOGOUT, intentional
+05/07/16-07:43PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:46PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:46PM, user1, CMD, /logout, success, client
+05/07/16-07:46PM, user1, LOGOUT, intentional
+05/07/16-07:46PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:48PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:48PM, user1, CMD, /logout, success, client
+05/07/16-07:48PM, user1, LOGOUT, intentional
+05/07/16-07:48PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 100 INTERNAL SERVER ERROR
+05/07/16-07:49PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 01 USER NOT AVAILABLE
+05/07/16-07:49PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:49PM, user1, CMD, /logout, success, client
+05/07/16-07:49PM, user1, LOGOUT, intentional
+05/07/16-07:49PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:50PM, user1, CMD, /logout, success, client
+05/07/16-07:50PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-07:50PM, user1, CMD, /logout, success, client
+05/07/16-07:50PM, user1, LOGOUT, intentional
+05/07/16-07:50PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-08:03PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 01 USER NOT AVAILABLE
+05/07/16-08:08PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-08:08PM, user1, CMD, /logout, success, client
+05/07/16-08:08PM, user1, LOGOUT, intentional
+05/07/16-08:40PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-08:40PM, user1, CMD, /logout, success, client
+05/07/16-08:40PM, user1, LOGOUT, intentional
+05/07/16-08:43PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 00 USER NAME TAKEN
+05/07/16-08:43PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-08:43PM, user1, CMD, /logout, success, client
+05/07/16-08:43PM, user1, LOGOUT, intentional
+05/07/16-08:52PM, user1, LOGIN, 127.0.0.1:1234, fail, ERR 00 USER NAME TAKEN
+05/07/16-08:52PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-08:52PM, user1, CMD, /listu, success, client
+05/07/16-09:53PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-09:53PM, jenna, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-09:54PM, user1, CMD, /chat, failure, client
+05/07/16-09:54PM, user1, CMD, /chat, success, client
+05/07/16-09:54PM, user1, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-09:55PM, jenna, LOGIN, 127.0.0.1:1234, success, Hello
+05/07/16-09:55PM, user1, CMD, /chat, failure, client
+05/07/16-09:55PM, user1, CMD, /chat, success, client
+05/07/16-09:55PM, jenna, MSG, from, user1, hello 
+05/07/16-09:55PM, user1, MSG, to, jenna, hello 
+05/07/16-09:55PM, jenna, MSG, from, user1, hiii
+05/07/16-09:55PM, user1, MSG, to, jenna, hiii
+05/07/16-09:55PM, user1, MSG, from, jenna, it works!!!
+05/07/16-09:55PM, jenna, MSG, to, user1, it works!!!
+05/07/16-09:56PM, user1, CMD, /listu, success, client
+05/07/16-09:56PM, jenna, CMD, /time, success, client
+05/07/16-09:56PM, user1, CMD, /logout, success, client
+05/07/16-09:57PM, jenna, CMD, /logout, success, client
